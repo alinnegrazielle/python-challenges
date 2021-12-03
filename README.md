@@ -1,3 +1,3 @@
-# Training-programming-logic
+# Programming-logic
 
-This repository was created to be able to follow my advances in programming logic.
+Exercises to train programming logic.
