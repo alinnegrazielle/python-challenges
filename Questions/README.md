@@ -1,6 +1,6 @@
 # Lista de Questões
 1. - [x] Faça um programa que mostre na tela uma <strong>contagem regressiva</strong> para o estouro de fogos de artifício, indo de 10 até 0, com uma <strong>pausa de 1 segundo</strong> entre eles.
-2. - [x] Escreva um programa que leia <strong>dois números</strong> inteiros e compare-os, mostrando na tela uma mensagem:
+2. - [x] Escreva um programa que leia <strong>dois números</strong> inteiros e <strong>compare-os</strong>, mostrando na tela uma mensagem:
 ``` 
     O primeiro valor é maior.
             ou
